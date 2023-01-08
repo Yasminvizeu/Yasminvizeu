@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yasminvizeu
 - 👀 I’m interested in diversity, inclusion and equity
-- 🌱 I’m currently learning Java, PHP and laravel
+- 🌱 I’m currently learning html, css, Java, PHP and laravel
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me vizeugilyasmin@gmail.com
 
